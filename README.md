@@ -1,1 +1,1 @@
-All important algorithms python code. 
+All important algorithms Python code. 
