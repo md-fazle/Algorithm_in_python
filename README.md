@@ -1,1 +1,1 @@
-All importent algoriths python code. 
+All important algoriths python code. 
