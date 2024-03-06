@@ -1,1 +1,1 @@
-# Algorithm_in_python
+All importent algoriths python code. 
